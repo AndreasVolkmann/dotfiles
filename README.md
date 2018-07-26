@@ -3,6 +3,9 @@
 
 ## Resources
 
+### osx
+* https://github.com/atomantic/dotfiles
+
 ### vim
 * https://www.reddit.com/r/vim/comments/1nwkth/setting_up_vim/
 * https://github.com/amix/vimrc
