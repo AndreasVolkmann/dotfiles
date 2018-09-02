@@ -14,3 +14,4 @@
 
 ### cli
 * https://github.com/tldr-pages/tldr
+* https://github.com/sharkdp/bat (cat with wings)
