@@ -15,3 +15,4 @@
 ### cli
 * https://github.com/tldr-pages/tldr
 * https://github.com/sharkdp/bat (cat with wings)
+* https://github.com/dbcli/mycli (mysql cli with syntax highlighting and auto complete)
