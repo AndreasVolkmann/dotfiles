@@ -17,6 +17,6 @@
 * https://github.com/tldr-pages/tldr
 * https://github.com/sharkdp/bat (cat with wings)
 * https://github.com/dbcli/mycli (mysql cli with syntax highlighting and auto complete)
-
-
-https://github.com/hishamhm/htop
+* https://github.com/zsh-users/zsh-autosuggestions
+* https://github.com/zsh-users/zsh-syntax-highlighting
+* https://github.com/hishamhm/htop
