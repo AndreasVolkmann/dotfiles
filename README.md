@@ -21,3 +21,7 @@
 * https://github.com/zsh-users/zsh-autosuggestions
 * https://github.com/zsh-users/zsh-syntax-highlighting
 * https://github.com/hishamhm/htop
+
+
+### useful
+* https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
