@@ -21,6 +21,7 @@
 * https://github.com/zsh-users/zsh-autosuggestions
 * https://github.com/zsh-users/zsh-syntax-highlighting
 * https://github.com/hishamhm/htop
+* https://github.com/gradle/gradle-completion
 
 
 ### useful
