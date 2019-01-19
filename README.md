@@ -26,3 +26,7 @@
 
 ### useful
 * https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
+
+
+### app
+* https://github.com/fabiospampinato/notable (Notes)
