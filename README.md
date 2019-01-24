@@ -22,6 +22,7 @@
 * https://github.com/zsh-users/zsh-syntax-highlighting
 * https://github.com/hishamhm/htop
 * https://github.com/gradle/gradle-completion
+* https://github.com/supercrabtree/k (better l)
 
 
 ### useful
