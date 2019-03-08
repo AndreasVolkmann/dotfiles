@@ -23,6 +23,7 @@
 * https://github.com/hishamhm/htop
 * https://github.com/gradle/gradle-completion
 * https://github.com/supercrabtree/k (better l)
+* https://github.com/Peltoche/lsd
 
 
 ### useful
