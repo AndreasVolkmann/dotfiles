@@ -28,7 +28,7 @@
 
 ### useful
 * https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
-
+* https://github.com/adam-p/markdown-here
 
 ### app
 * https://github.com/fabiospampinato/notable (Notes)
