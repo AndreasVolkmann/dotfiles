@@ -24,7 +24,7 @@
 * https://github.com/gradle/gradle-completion
 * https://github.com/supercrabtree/k (better l)
 * https://github.com/Peltoche/lsd
-
+* https://github.com/yudai/gotty (share terminal)
 
 ### useful
 * https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
