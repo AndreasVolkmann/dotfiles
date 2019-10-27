@@ -32,3 +32,9 @@
 
 ### app
 * https://github.com/fabiospampinato/notable (Notes)
+
+# dynamics
+* https://github.com/tomasr/viasfora Visual Studio Extension
+* https://github.com/strayiker/vs-theme-darcula Visual Studio Theme
+* https://github.com/tonsky/FiraCode Font
+* https://github.com/malxau/yori Terminal
