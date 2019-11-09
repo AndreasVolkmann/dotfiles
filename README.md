@@ -25,6 +25,7 @@
 * https://github.com/supercrabtree/k (better l)
 * https://github.com/Peltoche/lsd
 * https://github.com/yudai/gotty (share terminal)
+* https://github.com/romkatv/powerlevel10k better zsh theme
 
 ### useful
 * https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
