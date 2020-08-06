@@ -27,6 +27,7 @@
 * https://github.com/yudai/gotty (share terminal)
 * https://github.com/romkatv/powerlevel10k better zsh theme
 * https://github.com/dim-an/cod learn auto complete
+* https://github.com/Canop/broot file tree browser
 
 ### useful
 * https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
