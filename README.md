@@ -1,6 +1,5 @@
 # dotfiles
 
-
 ## Resources
 
 ### osx
@@ -41,3 +40,11 @@
 * https://github.com/strayiker/vs-theme-darcula Visual Studio Theme
 * https://github.com/tonsky/FiraCode Font
 * https://github.com/malxau/yori Terminal
+
+
+# Process
+
+* [Microsoft Threat Modeling Tool](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
+
+## Testing
+* Define ATDDs with [Gherkin](https://cucumber.io/docs/gherkin/) (Cucumber)
