@@ -32,14 +32,14 @@
 * https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
 * https://github.com/adam-p/markdown-here
 
-### app
-* https://github.com/fabiospampinato/notable (Notes)
-
 # dynamics
 * https://github.com/tomasr/viasfora Visual Studio Extension
 * https://github.com/strayiker/vs-theme-darcula Visual Studio Theme
 * https://github.com/tonsky/FiraCode Font
-* https://github.com/malxau/yori Terminal
+* https://github.com/cmderdev/cmder Terminal
+
+# JVM
+* https://github.com/ben-manes/gradle-versions-plugin `id("com.github.ben-manes.versions") version "0.38.0"`
 
 
 # Process
