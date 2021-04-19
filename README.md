@@ -32,7 +32,9 @@
 * https://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/
 * https://github.com/adam-p/markdown-here
 
-# dynamics
+# Visual Studio
+* https://github.com/lkytal/SmoothScroll
+* https://github.com/poma/MinimalisticView
 * https://github.com/tomasr/viasfora Visual Studio Extension
 * https://github.com/strayiker/vs-theme-darcula Visual Studio Theme
 * https://github.com/tonsky/FiraCode Font
